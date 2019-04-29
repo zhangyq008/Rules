@@ -1,0 +1,35 @@
+//Tencent
+USER-AGENT,NOW*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,TIM*
+USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger*
+USER-AGENT,QQ*
+USER-AGENT,QQ%E6%B5%8F%E8%A7%88%E5%99%A8* //浏览器
+USER-AGENT,%E5%BE%AE%E4%BA%91*
+USER-AGENT,*%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6*
+USER-AGENT,QQ%E6%B5%8F%E8%A7%88%E5%99%A8* //浏览器
+USER-AGENT,天天快报*
+USER-AGENT,live4iphone*
+USER-AGENT,MostLife*
+USER-AGENT,DYZB*
+USER-AGENT,PandaTV-ios* //xiongmao
+USER-AGENT,kiwi* //huya
+USER-AGENT,QNBAutomatic* //QNBA
+USER-AGENT,qqlive4iphone*
+USER-AGENT,ijkplayer
+USER-AGENT,*小米音响.*
+USER-AGENT,MeituanMovie*
+USER-AGENT,*Weibo%20intl*
+USER-AGENT,*WeiboOverseas* // weibo
+USER-AGENT,%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D* // 京东金融
+USER-AGENT,%E9%A3%9E%E7%8C%AA* // 飞猪
+USER-AGENT,漫画人* // 漫画人内文
+USER-AGENT,UU%E8%B7%91%E8%85%BF*
+USER-AGENT,MostLife*
+USER-AGENT,ChinaMobile
+USER-AGENT,MTOPSDK* // 支付宝跳转
+USER-AGENT,*Weibo* // Sina
+USER-AGENT,UDown* // 115
+USER-AGENT,MovieApp* // Movie
+USER-AGENT,TBIOS* // Movie

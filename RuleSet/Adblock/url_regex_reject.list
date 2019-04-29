@@ -1,0 +1,61 @@
+////////////////////////////////////////////////////////////////////
+//UR
+//云图电视 看看
+URL-REGEX,http://conf.tvesou.com\/app_conf\?nwtime=.*
+URL-REGEX,http://api.yuntu.live.nagezan.net\/cgi-bin\/get_.*
+//云图电视 iad 测试
+URL-REGEX,http://yuntutv.tvesou.com\/yuntu_play_half\/index.html\?1&uid=\d+
+URL-REGEX,http://nowtv.tvesou.com\/epg_tvnow_iphone_ids.php\?ids=.*
+URL-REGEX,http://iphone.v0.mgtv.com\/(buffer|click).php\?abroad=0&act=(buffer|vl)&.* //芒果
+URL-REGEX,http://map.r5itf5.cn\/statics\/images\/erweima.gif
+URL-REGEX,http://m.wgewj.cn\/sz\/15667\?token8=.*
+#URL-REGEX,http://c.tieba.baidu.com\/c\/s\/rnSync //贴吧开屏,待测试
+#URL-REGEX,http://c.tieba.baidu.com\/c\/.* //贴吧内文，待测试
+URL-REGEX,http://\w+.d(omob|uomeng).*(cn|org|net)\/a // 在意空气
+URL-REGEX,http://iadmat.nosdn.127.net\/ad.bid.material_.* // 网易云音乐开屏
+URL-REGEX,http://music.163.com\/eapi\/ad\/.* // 网易云音乐开屏
+URL-REGEX,http://mangaapi.manhuaren.com\/v1\/public\/getStartPageAds2\?gak=ios_manhuaren2&gat=.* //漫画人
+URL-REGEX,http://mangaapi.manhuaren.com\/v1\/public\/getAds\?gak=ios_manhuaren2&gat=.* //漫画人
+URL-REGEX,http://lives.l.qq.com\/livemsg\?sdtfrom=v3004\&adaptor=1\&v=TADIOSPlayerV1.0\&.* //腾讯体育
+URL-REGEX,http://cdnfile1.msstatic.com\/cdnfile\/appad\/resource_\d{10}.zip //虎牙直播
+URL-REGEX,http://anduril.platform.zongheng.com\/v1\/advert\/banner3\?&imei=.* //熊猫看书
+URL-REGEX,.*\/music\/common\/upload\/(t_splash_info|tip)\/(\d{6}|\d{4}\b.+\d{5}).jpg\?fromtag.* //QQ音乐
+URL-REGEX,http://mapiv2.yinyuetai.com\/ad\/getByPlaceId.json\?dataId=.* //音悦台
+URL-REGEX,http://.*\/www\/default\/base.js //移动悬浮
+URL-REGEX,http://.*:80\/gdt\/0\/.* // QQ空间
+URL-REGEX,http://ams.rmcnmv.naver.com\/item\/create\/\d{4}\/SMR\?ams_ctgr=.* //NAVER TV
+URL-REGEX,http://adm.10jqka.com.cn\/interface\/getads.php\?platform=.* // 同花顺
+URL-REGEX,http://api.jiayuan.com\/mobile\/ios_qdhm.php\?action=ios_qdhm.*
+URL-REGEX,http://w.jiayuan.com\/mkt\/appyxwz\?channel=1\&channelID=1\&channelid=.*
+URL-REGEX,http://m.client.10010.com\/mobileService\/activity\/*.htm // 联通客客户端
+URL-REGEX,http://rich.kuwo.cn\/AdService\/kaiping\/adinfo\?user=.* //酷我00
+URL-REGEX,http://113.200.76.*:16420\/sxtd.bike2.01|/getkey.do //自行车
+URL-REGEX,http://api.m.jd.com\/client.action\?functionId=start // 京东
+URL-REGEX,http://amdc.m.taobao.com\/amdc\/mobileDispatch // 淘票票
+URL-REGEX,http://adm.10jqka.com.cn\/interface\/getads.php\?platform=.* // 同花顺
+URL-REGEX,http://api.jiayuan.com\/mobile\/ios_qdhm.php\?action=ios_qdhm.* // jiayuan
+URL-REGEX,http://w.jiayuan.com\/mkt\/appyxwz\?channel=1\&channelID=1\&channelid=.*
+URL-REGEX,http://m.client.10010.com\/mobileService\/activity\/*.htm // 联通客客户端
+URL-REGEX,http://adse.ximalaya.com\/ting\/feed\?appid=.*  // 喜马拉雅
+URL-REGEX,http://adse.ximalaya.com\/ting\?appid=.* // 喜马拉雅
+URL-REGEX,http://adse.ximalaya.com\/ting\/loading\?appid=.* // 喜马拉雅开启
+URL-REGEX,http://iis1.deliver.ifeng.com\/getmcode\?adid=.*
+URL-REGEX,http://ifengad.3g.ifeng.com\/ad\/pv.php\?stat=.* // 凤凰新闻启动
+URL-REGEX,http://api.newad.ifeng.com\/ClientAdversApi1508\?adids=.* // 凤凰新闻
+URL-REGEX,http://exp.3g.ifeng.com\/coverAdversApi\?gv=.* // 凤凰启动
+URL-REGEX,.*\?resource=article\/recommend\&accessToken=.* // 新浪新闻内文
+URL-REGEX,http://s.go.sohu.com\/adgtr\/\?gbcode=\&appchn=.* // 搜狐新闻
+URL-REGEX,http://adse.ximalaya.com/ting/feed\?appid=.* // 喜马拉雅列表
+URL-REGEX,http://pos.baidu.com/bcym?rdid=.*\badblockplus.* // 追书神器百度网盟
+URL-REGEX,http://news.l.qq.com\/app\?.* // 腾讯新闻列表
+URL-REGEX,http://r.inews.qq.com/getSplash\?apptype=ios\&startarticleid=\&__qnr=.* // 腾讯新闻开启
+URL-REGEX,http://mi.gdt.qq.com\/gdt_mview.fcg\?posid=.* // 追书神器书架2
+URL-REGEX,http://api.zhuishushenqi.com\/advert\?platform=.* // 追书神器书架
+URL-REGEX,http://r.domob.cn/a // 天气软件
+URL-REGEX,.*/allOne.php\?ad_name=main_splash_ios // 直播8
+URL-REGEX,http://api.zhuishushenqi.com/advert?platform=ios&position=all // 书架广告
+URL-REGEX,http://api.zhuishushenqi.com/splashes/ios // 追书神器启动
+URL-REGEX,http://r.cnews.qq.com\/getSubNewsRelate\?id=.* // 天天快报内文
+URL-REGEX,http://pica-juicy.picacomic.com\/ios\/comic_detail //天猫排除
+URL-REGEX,http://pica-juicy.picacomic.com\/ios\/font //天猫排除
+URL-REGEX,http://pica-juicy.picacomic.com\/ios\/home_banner //天猫排除
